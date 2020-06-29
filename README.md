@@ -1,5 +1,7 @@
 # README
 
+比赛链接：https://www.kaggle.com/c/nju-introdm20/overview
+
 ## 目录说明
 
 报告为DZ1933004_陈奕宇.pdf
