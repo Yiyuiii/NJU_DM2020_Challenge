@@ -1,4 +1,4 @@
-# README
+# 基于词频直方图和MLP的C代码克隆检测
 
 比赛链接：https://www.kaggle.com/c/nju-introdm20/overview
 
